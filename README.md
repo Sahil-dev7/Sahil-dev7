@@ -32,7 +32,7 @@
   />
 </p>
 
-Passionate about AI & building tech that truly helps people. expertise in **Kotlin**, **Java**, and **AI/ML**. I enjoy turning ideas into practical, user-focused solutions and continuously exploring how intelligent systems can create real-world impact.
+Passionate about AI & building tech that truly helps people. expertise in **Kotlin**, **Java**, & **AI/ML**. I enjoy turning ideas into practical, user-focused solutions and continuously exploring how intelligent systems can create real-world impact.
 
 - 🔭 Working on innovative projects with **Kotlin** & **AI**
 - 🌱 Continuously learning **new technologies** and **best practices**
